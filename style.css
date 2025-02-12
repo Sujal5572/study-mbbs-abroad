@@ -1,0 +1,10 @@
+
+
+header p {
+    color: #F0F0F0; 
+}
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+  }
